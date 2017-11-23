@@ -1,14 +1,17 @@
 # _Fizz-Pong_
 
-#### _Site creates list of numbers following fizz-buzz parameters., {08/18/2017}_
+#### _Created: 08.18.2017_
+#### _Last Modified: 11.22.2017_
 
 #### By _**David Hale**_
 
-#### GH-Pages _https://phuzisham.github.io/fizz-pong/_
+#### GH-Pages [here](_https://phuzisham.github.io/fizz-pong/)_
 
 ## Description
 
-_Site takes a number from user and prints a list of numbers from 1 to that number using the following..._
+_Site takes a number from user and prints a list of numbers following fizz-buzz parameters._
+
+![Screenshot](https://github.com/phuzisham/fizz-pong/blob/master/img/cap.png "Screen Capture")
 
 ## Specifications
 * It displays every number from one up to the user's number
@@ -26,9 +29,9 @@ _Site takes a number from user and prints a list of numbers from 1 to that numbe
 
 ## Support and contact details
 
-_{email: david.hale7@gmail.com}_
+_email: david.hale7@gmail.com_
 
 
 ### License
 
-MIT license 2016 **_{David Hale}_**
+MIT license 2017 **_David Hale_**
