@@ -5,7 +5,7 @@
 
 #### By _**David Hale**_
 
-#### GH-Pages [here](_https://phuzisham.github.io/fizz-pong/)_
+#### _GH-Pages [here](https://phuzisham.github.io/fizz-pong/)_
 
 ## Description
 
